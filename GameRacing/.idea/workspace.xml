@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b702583f-585c-4081-b570-6bbf8fc62c8a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mon</find>
+      <find>P</find>
+      <find>OK</find>
+      <find>chang</find>
+      <find>BulletItem</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/model/MapItem.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/view/MenuGamePlay.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/view/ViewInitializer.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/view/DialogGame.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/view/DialogGamePanel.java" />
+        <option value="$PROJECT_DIR$/HighScores.txt" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/view/GamePlayPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/model/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/view/Gui.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/view/MenuPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/view/OnMenuSelectListener.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/view/BasePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/model/Money.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/model/Map.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/model/Fuel.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/model/BulletItem.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/model/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/model/Boom.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/model/BaseModel.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/manager/PlayerWav.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/manager/ImageStore.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/manager/GameManager.java" />
+        <option value="$PROJECT_DIR$/src/com/n2q/racing/manager/FileManager.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1385" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GameRacing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GameRacing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GameRacing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GameRacing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GameRacing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GameRacing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="racing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GameRacing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GameRacing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/2D Race Car Games_v1_apkpure.com.apk" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.n2q.racing.manager" />
+      <recent name="com.n2q.racing.view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT\Curriculum\T3H\Games\SourceCode\GameRacing\src\res\drawable\menu" />
+      <recent name="D:\IT\Curriculum\T3H\Games\SourceCode\GameRacing\src\res\raw" />
+      <recent name="D:\IT\Curriculum\T3H\Games\SourceCode\GameRacing\src\res\drawable" />
+      <recent name="D:\IT\Curriculum\T3H\Games\SourceCode\GameRacing\src\res\drawable\item" />
+      <recent name="D:\IT\Curriculum\T3H\Games\SourceCode\GameRacing\src\com\n2q\racing\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.n2q.racing.Main" />
+      <module name="GameRacing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.n2q.racing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b702583f-585c-4081-b570-6bbf8fc62c8a" name="Default" comment="" />
+      <created>1526926239561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526926239561</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32957748" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3056338" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18489583" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32957748" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32957748" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32957748" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20052083" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="23" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/MapItem.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/manager/ImageStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/manager/GameManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/BaseModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/MapItem.java" />
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/MapItem.java" />
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/car/car3.png" />
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/item/bullet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/item/money.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="119" column="30" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/car/car_system.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/car/car_police_up.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/car/car_police_down.png" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="1010" column="7" lean-forward="true" selection-start-line="1010" selection-start-column="7" selection-end-line="1010" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PlayerWav.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/EventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/event/KeyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="50" column="44" lean-forward="true" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/event/KeyAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/AbstractButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="1008" column="16" selection-start-line="1008" selection-start-column="16" selection-end-line="1008" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/menu/btn_playgame1.png" />
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/menu/btn_playgame.png" />
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/car/car_user.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/item/bullet_item.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../ResourceGame2D/ResourceGame/DuaXe2/resource/sound/GameSound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2D Race Car Games_v1_apkpure.com.apk" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="934" column="25" lean-forward="true" selection-start-line="934" selection-start-column="25" selection-end-line="934" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/view/DialogGamePanel.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="857" column="22" selection-start-line="857" selection-start-column="22" selection-end-line="857" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HighScores.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/menu/sound_off.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/res/drawable/menu/sound_on.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/view/ViewInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/view/OnMenuSelectListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/view/MenuPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+          <folding>
+            <element signature="method#initContainer#0;class#MenuPanel#0" />
+            <element signature="method#paintComponent#0;class#MenuPanel#0" />
+            <element signature="method#initComponents#0;class#MenuPanel#0" />
+            <element signature="method#registerListeners#0;class#MenuPanel#0" />
+            <element signature="method#setLabel#0;class#MenuPanel#0" />
+            <element signature="method#setOnMenuSelectListener#0;class#MenuPanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/view/Gui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Gui#0;class#Gui#0" />
+            <element signature="method#initContainer#0;class#Gui#0" />
+            <element signature="method#initComponents#0;class#Gui#0" />
+            <element signature="method#onMenuSelectedListener#0;class#Gui#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/view/GamePlayPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1169">
+          <caret line="536" column="1" lean-forward="true" selection-start-line="536" selection-start-column="1" selection-end-line="536" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2452#2590#0" />
+            <element signature="e#2596#3454#0" />
+            <element signature="e#3460#3513#0" />
+            <element signature="e#3519#4084#0" />
+            <element signature="e#4090#4720#0" />
+            <element signature="e#4726#6635#0" />
+            <element signature="e#6641#7120#0" />
+            <element signature="e#7212#8000#0" />
+            <element signature="e#8006#8663#0" />
+            <element signature="e#8669#9144#0" />
+            <element signature="e#9150#9266#0" />
+            <element signature="e#9272#9720#0" />
+            <element signature="e#9726#10292#0" />
+            <element signature="e#10298#11354#0" />
+            <element signature="e#11360#11919#0" />
+            <element signature="e#11925#14603#0" />
+            <element signature="e#14609#15733#0" />
+            <element signature="e#15739#16004#0" />
+            <element signature="e#16010#16180#0" />
+            <element signature="e#16186#16354#0" />
+            <element signature="e#16360#17176#0" />
+            <element signature="e#17182#17337#0" />
+            <element signature="e#17343#17487#0" />
+            <element signature="e#17493#17670#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/view/BasePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/Money.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="method#Money#0;class#Money#0" />
+            <element signature="method#move#0;class#Money#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#draw#0;class#Map#0" />
+            <element signature="method#move#0;class#Map#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/Fuel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="method#Fuel#0;class#Fuel#0" />
+            <element signature="method#move#0;class#Fuel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="186" column="1" selection-start-line="186" selection-start-column="1" selection-end-line="186" selection-end-column="1" />
+          <folding>
+            <element signature="method#Car#0;class#Car#0" />
+            <element signature="method#draw#0;class#Car#0" />
+            <element signature="method#move#0;class#Car#0" />
+            <element signature="method#moveMyCar#0;class#Car#0" />
+            <element signature="method#moveCarSystem#0;class#Car#0" />
+            <element signature="method#moveCarPolice#0;class#Car#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/BulletItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="method#BulletItem#0;class#BulletItem#0" />
+            <element signature="method#draw#0;class#BulletItem#0" />
+            <element signature="method#move#0;class#BulletItem#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/Bullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="method#Bullet#0;class#Bullet#0" />
+            <element signature="method#move#0;class#Bullet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/Boom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="method#Boom#0;class#Boom#0" />
+            <element signature="method#draw#0;class#Boom#0" />
+            <element signature="method#move#0;class#Boom#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/model/BaseModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/manager/PlayerWav.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="method#PlayerWav#0;class#PlayerWav#0" />
+            <element signature="method#play#0;class#PlayerWav#0" />
+            <element signature="method#loop#0;class#PlayerWav#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/manager/ImageStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/manager/GameManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="544" column="1" selection-start-line="544" selection-start-column="1" selection-end-line="544" selection-end-column="1" />
+          <folding>
+            <element signature="e#1636#2270#0" />
+            <element signature="e#2276#2387#0" />
+            <element signature="e#2393#2507#0" />
+            <element signature="e#2513#2664#0" />
+            <element signature="e#2670#2821#0" />
+            <element signature="e#2827#3005#0" />
+            <element signature="e#3011#3234#0" />
+            <element signature="e#3240#3391#0" />
+            <element signature="e#3397#3548#0" />
+            <element signature="e#3554#3719#0" />
+            <element signature="e#3725#3883#0" />
+            <element signature="e#3889#4059#0" />
+            <element signature="e#4065#4234#0" />
+            <element signature="e#4240#4455#0" />
+            <element signature="e#4461#4643#0" />
+            <element signature="e#4649#4868#0" />
+            <element signature="e#4874#5190#0" />
+            <element signature="e#5196#5495#0" />
+            <element signature="e#5501#5655#0" />
+            <element signature="e#5661#5815#0" />
+            <element signature="e#5821#6069#0" />
+            <element signature="e#6075#6237#0" />
+            <element signature="e#6243#6442#0" />
+            <element signature="e#6551#6693#0" />
+            <element signature="e#6699#6836#0" />
+            <element signature="e#6842#7512#0" />
+            <element signature="e#7518#7788#0" />
+            <element signature="e#7794#7949#0" />
+            <element signature="e#7955#8149#0" />
+            <element signature="e#8155#8342#0" />
+            <element signature="e#8348#8554#0" />
+            <element signature="e#8560#8741#0" />
+            <element signature="e#8747#8947#0" />
+            <element signature="e#8953#9133#0" />
+            <element signature="e#9139#9354#0" />
+            <element signature="e#9360#9551#0" />
+            <element signature="e#9557#9791#0" />
+            <element signature="e#9797#9991#0" />
+            <element signature="e#9997#10176#0" />
+            <element signature="e#10274#10434#0" />
+            <element signature="e#10440#10881#0" />
+            <element signature="e#10887#11048#0" />
+            <element signature="e#11054#11214#0" />
+            <element signature="e#11220#11489#0" />
+            <element signature="e#11495#11764#0" />
+            <element signature="e#11770#12056#0" />
+            <element signature="e#12062#12244#0" />
+            <element signature="e#12250#12725#0" />
+            <element signature="e#12731#12887#0" />
+            <element signature="e#12976#13307#0" />
+            <element signature="e#13313#13592#0" />
+            <element signature="e#13598#13843#0" />
+            <element signature="e#13849#14124#0" />
+            <element signature="e#14130#14363#0" />
+            <element signature="e#14451#14586#0" />
+            <element signature="e#14592#14723#0" />
+            <element signature="e#14729#14868#0" />
+            <element signature="e#14874#15019#0" />
+            <element signature="e#15025#15163#0" />
+            <element signature="e#15169#15306#0" />
+            <element signature="e#15312#15570#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/n2q/racing/manager/FileManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="method#FileManager#0;class#FileManager#0" />
+            <element signature="method#readFile#0;class#FileManager#0" />
+            <element signature="method#writeFile#0;class#FileManager#0" />
+            <element signature="method#getHighScores#0;class#FileManager#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GameRacing</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
