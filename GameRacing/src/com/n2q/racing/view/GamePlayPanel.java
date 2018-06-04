@@ -164,7 +164,6 @@ public class GamePlayPanel extends BasePanel {
                     } else {
                         numberOfSleep = 0;
                     }
-                    System.out.println("Thread");
                     gamePlayControl();
                     if (status == PLAY_GAME || status == RESUME_GAME){
                         gameManagerMap();
@@ -261,7 +260,7 @@ public class GamePlayPanel extends BasePanel {
     private void gameManagerCarsPolice(){
         gameManager.setArrayCarsPolice(new Car(
                 Car.ROAD_SIDE_LEFT + random.nextInt(Car.ROAD_SIDE_RIGHT - Car.ROAD_SIDE_LEFT),
-                Gui.HEIGHT_FRAME,
+                Gui.HEIGHT_FRAME + 250,
                 Car.UP,
                 GameManager.SPEED_CAR_POLICE
         ));

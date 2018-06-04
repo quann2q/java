@@ -29,7 +29,7 @@ public class GameManager {
     private static final int SPEED_BULLET = 2;
     private static final int SPEED_MAP = 2;
     public static final int SPEED_CAR_SYSTEM = 3;
-    public static final int SPEED_CAR_POLICE = 5;
+    public static final int SPEED_CAR_POLICE = 15;
     public static final int SPEED_ITEM = 2;
     public static final int DISTANCE_MAP = 800;
 
@@ -323,7 +323,26 @@ public class GameManager {
 
     public void moveCarPolice(long numberOfSleep){
         for (int i=0; i<arrayCarsPolice.size(); i++){
-            arrayCarsPolice.get(i).move(Car.CAR_POLICE_UP, numberOfSleep);
+            for (int j=0; j<arrayCarsSystem.size(); j++){
+                if (arrayCarsPolice.get(i).getRectangle()
+                        .intersects(arrayCarsSystem.get(j).getRectangle())){
+                    int x = arrayCarsPolice.get(i).getX();
+                    int y = arrayCarsPolice.get(i).getY();
+                    if (y > myCar.getY()){
+                        if (x > myCar.getX()){
+                            x--;
+                        } else {
+                            x++;
+                        }
+                    } else {
+                        x++;
+                    }
+
+                    arrayCarsPolice.get(i).setX(x);
+                } else {
+                    arrayCarsPolice.get(i).move(Car.CAR_POLICE_UP, numberOfSleep);
+                }
+            }
         }
     }
 
@@ -398,8 +417,13 @@ public class GameManager {
 
     public void changeCarPoliceDirection(int direction){
         for (int i=0; i<arrayCarsPolice.size(); i++){
-            if (arrayCarsPolice.get(i).getDirection() != direction){
-                arrayCarsPolice.get(i).setDirection(direction);
+            int y = arrayCarsPolice.get(i).getY();
+            if (y > myCar.getY()){
+                if (arrayCarsPolice.get(i).getDirection() != direction){
+                    arrayCarsPolice.get(i).setDirection(direction);
+                }
+            } else {
+                arrayCarsPolice.get(i).setDirection(Car.UP);
             }
         }
     }
@@ -485,7 +509,6 @@ public class GameManager {
     }
 
     public void playAudioBackground(){
-        System.out.println("Nhạc nền");
         playerWavBackground = new PlayerWav("background");
         playerWavBackground.play();
         playerWavBackground.loop(Clip.LOOP_CONTINUOUSLY);
@@ -498,41 +521,35 @@ public class GameManager {
     private void playAudioBullet(){
         playerWav = new PlayerWav("bullet");
         playerWav.play();
-        playerWav.loop(0);
     }
 
     private void playAudioBoom(){
         playerWav = new PlayerWav("boom");
         playerWav.play();
-        playerWav.loop(0);
     }
 
     private void playAudioEatingMoney(){
         playerWav = new PlayerWav("money");
         playerWav.play();
-        playerWav.loop(0);
     }
 
     private void playAudioEatingBullet(){
         playerWav = new PlayerWav("eat_bullet");
         playerWav.play();
-        playerWav.loop(0);
     }
 
     public void playAudioIncreaseFuel(){
         playerWav = new PlayerWav("fuel");
         playerWav.play();
-        playerWav.loop(0);
     }
 
     private void playAudioWarning(){
         playerWav = new PlayerWav("warning");
         playerWav.play();
-        playerWav.loop(0);
+        playerWav.loop(1);
     }
 
     public void playAudioBackGroundMenu(){
-        System.out.println("Nhạc nền menu");
         playerWavBackgroundMenu = new PlayerWav("Arc-MindVortex");
         playerWavBackgroundMenu.play();
         playerWavBackgroundMenu.loop(Clip.LOOP_CONTINUOUSLY);

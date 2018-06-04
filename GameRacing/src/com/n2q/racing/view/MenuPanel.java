@@ -11,8 +11,8 @@ import java.awt.event.MouseEvent;
 public class MenuPanel extends BasePanel {
     public static final String ACTION_PLAY_GAME = "ACTION_PLAY_GAME";
     public static final String ACTION_EXIT_GAME = "ACTION_EXIT_GAME";
-    public static final String ACTION_MUTE_AUDIO_GAME = "ACTION_MUTE_AUDIO_GAME";
-    public static final String ACTION_UN_MUTE_AUDIO_GAME = "ACTION_UN_MUTE_AUDIO_GAME";
+    private static final String ACTION_MUTE_AUDIO_GAME = "ACTION_MUTE_AUDIO_GAME";
+    private static final String ACTION_UN_MUTE_AUDIO_GAME = "ACTION_UN_MUTE_AUDIO_GAME";
     private boolean statusAudio = true;
     private static final int SIZE_LABEL = 100;
     private Color color;
